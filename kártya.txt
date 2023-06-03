@@ -1,0 +1,22 @@
+Kép:
+assets/images/martian.jpg
+
+Kép helyettesítő szöveg:
+A Marsi moziplakát
+
+Cím:
+A marsi
+
+Leírás:
+Andy Wair regénye alapján készült mű az egyik legpontosabb leírás a jelenkori tudomány állása szerint az űrutazás viszontagságairól.
+A történet középpontjában Mark Watney amerikai asztronauta áll, aki egyedül marad a Marson, így rögtönöznie kell a túlélése érdekében.
+
+Következő vetítések:
+- Szerda, 20:00
+- Csütörtök 8:00, 12:00
+
+badge szöveg:
+Újdonság
+
+badge extra stílusosztály:
+bg-danger

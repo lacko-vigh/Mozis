@@ -1,0 +1,37 @@
+[
+  {
+    "id": 13,
+    "description": "Adatbázis létrehozása",
+    "adminPage": false
+  },
+  {
+    "id": 15,
+    "description": "Vetítések száma",
+    "adminPage": true
+  },
+  {
+    "id": 16,
+    "description": "Legtöbb jegyet vásárló vendégek",
+    "adminPage": true
+  },
+  {
+    "id": 17,
+    "description": "Filmcím módosítás",
+    "adminPage": false
+  },
+  {
+    "id": 18,
+    "description": "Új filmtípus beszúrása",
+    "adminPage": false
+  },
+  {
+    "id": 19,
+    "description": "Fodor András teljesárú jegyei",
+    "adminPage": true
+  },
+  {
+    "id": 20,
+    "description": "Legnagyobb kedvezménnyel korrigált jegybevétel",
+    "adminPage": true
+  }
+]
